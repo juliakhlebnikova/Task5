@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1591613973 source:c:\users\julia\desktop\Новая папка\5\5.cpp
+	"5.h"
+
+1591613054 c:\users\julia\desktop\Новая папка\5\5.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<cmath>
+
+1591613054 source:c:\users\julia\desktop\Новая папка\5\main.cpp
+	"5.h"
+
